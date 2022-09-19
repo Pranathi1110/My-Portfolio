@@ -1,0 +1,14 @@
+.border{
+    border-bottom: 1px solid;
+    margin: 1rem 3rem 1rem 3rem;
+}
+.about h2{
+    color: rgba(14, 166, 222, 0.749);
+}
+.about p{
+    text-align: left;
+}
+.about{
+    text-align: center;
+    justify-content: center;
+}

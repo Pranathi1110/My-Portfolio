@@ -1,0 +1,12 @@
+.home h1 span{
+    color: rgba(14, 166, 222, 0.749);
+    margin-bottom: 0.6rem !important;
+    font-weight: bold;
+  }
+  .home p{
+    font-size: large;
+  }
+  .home{
+    font-size:larger ;
+    padding: 1.5rem;
+  }
