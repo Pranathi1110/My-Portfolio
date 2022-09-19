@@ -15,7 +15,7 @@ class Contact extends Component {
                 
                 <div className="mail-container">
                     <h3><FontAwesomeIcon icon={["fa","envelope"]} size="3x" color=" rgb(100, 164, 164)"/><br></br>Email</h3>
-                    <a  style={{color:"rgb(100, 164, 164)"}}>gurijalapranathi21@gmail.com</a>
+                    <a  style={{color:"rgb(100, 164, 164)cl"}}>gurijalapranathi21@gmail.com</a>
                     </div>
                     
                     
